@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.11.0",
+    "libraryName": "webpart-navigare",
+    "libraryId": "d08f0128-7437-4595-b031-857b8d826bd3",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
